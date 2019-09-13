@@ -1,1 +1,12 @@
+<Version: 0.1.1>
+/data/Map007.json https://raw.githubusercontent.com/Tailsthebro/updater/master/Map007.json
+/data/Map008.json https://raw.githubusercontent.com/Tailsthebro/updater/master/Map008.json
+/data/Map009.json https://raw.githubusercontent.com/Tailsthebro/updater/master/Map009.json
+/data/Map010.json https://raw.githubusercontent.com/Tailsthebro/updater/master/Map010.json
+/data/Map011.json https://raw.githubusercontent.com/Tailsthebro/updater/master/Map011.json
+/data/Map012.json https://raw.githubusercontent.com/Tailsthebro/updater/master/Map012.json
+/data/Troops.json https://raw.githubusercontent.com/Tailsthebro/updater/master/Troops.json
+/data/Enemies.json https://raw.githubusercontent.com/Tailsthebro/updater/master/Enemies.json
+/data/sun.png https://imgur.com/TpjAKHy
 
+<End of Version>
