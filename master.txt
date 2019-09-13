@@ -1,4 +1,4 @@
-<Version: 0.1.1>
+<Version: 1.1.0>
 /data/Map007.json https://raw.githubusercontent.com/Tailsthebro/updater/master/Map007.json
 /data/Map008.json https://raw.githubusercontent.com/Tailsthebro/updater/master/Map008.json
 /data/Map009.json https://raw.githubusercontent.com/Tailsthebro/updater/master/Map009.json
