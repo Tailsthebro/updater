@@ -8,5 +8,5 @@
 /data/Troops.json https://raw.githubusercontent.com/Tailsthebro/updater/master/Troops.json
 /data/Enemies.json https://raw.githubusercontent.com/Tailsthebro/updater/master/Enemies.json
 /data/sun.png https://imgur.com/TpjAKHy
-
+/img/test.png https://imgur.com/r2txDzq
 <End of Version>
